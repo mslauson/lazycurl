@@ -1,8 +1,3 @@
-struct Box {
-    width: u32,
-    height: u32,
-}
-
 use ratatui::style::{Color, Modifier, Style};
 use ratatui::widgets::{Block, Borders};
 use tui_textarea::TextArea;
